@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bata-bit"
+    }
+  },
+  "defaultProject": "bata-bit",
+  "cli": {
+    "analytics": false
+  }
 }
